@@ -12536,11 +12536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itsadmin\\Desktop\\testApp - Copy\\opsapp\\opsapp\\opsapp.csproj",
+      "projectUniqueName": "C:\\Users\\itsadmin\\Desktop\\Source Code\\app\\opsapp\\opsapp.csproj",
       "projectName": "opsapp",
-      "projectPath": "C:\\Users\\itsadmin\\Desktop\\testApp - Copy\\opsapp\\opsapp\\opsapp.csproj",
+      "projectPath": "C:\\Users\\itsadmin\\Desktop\\Source Code\\app\\opsapp\\opsapp.csproj",
       "packagesPath": "C:\\Users\\itsadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itsadmin\\Desktop\\testApp - Copy\\opsapp\\opsapp\\obj\\",
+      "outputPath": "C:\\Users\\itsadmin\\Desktop\\Source Code\\app\\opsapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
